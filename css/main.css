@@ -1,0 +1,23 @@
+:root {
+    --primary-color : 213448
+}
+body {
+    background-color: var(--primary-color);
+    color: whitesmoke;
+}
+h2 {
+    font-weight: bold;
+}
+.green {
+    color: #189F5A;
+}
+.red {
+    color: #E43715;
+}
+
+p {
+    position: absolute;
+    bottom: 10;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
